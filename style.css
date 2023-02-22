@@ -1,0 +1,18 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.headertext {
+    display: inline-flex;
+    justify-content: space-around;
+    width: 200px;
+    flex-wrap: wrap;
+}
+
+.bt {
+    color: rgb(252, 47, 255);
+    border: 1px solid black;
+    border-radius: 7px;
+}
